@@ -5,7 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbpate10@asu.edu)
 
 </div>
----
 
 ## About Me
 
@@ -169,12 +168,6 @@ Analyzed global clean energy investment and cost trends across 5 datasets (OWID,
 GPA: 4.0
 
 **B.S.E. Mechanical Engineering** — Arizona State University `Dec 2023`
-
----
-
-## Publication
-
-Patel, K., et al. (2024). *Fabrication of Continuous Fiber Composites with Embedded Functional Textile Frameworks via Vat Photopolymerization.* Arizona State University, Lab of Manufacturing and Innovation, SEMTE. (Peer-reviewed)
 
 ---
 
