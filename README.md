@@ -3,8 +3,6 @@
 
 # Kashish Patel
 
-**Product Analytics · Marketing Analytics · Business Intelligence**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-patel-10)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbpate10@asu.edu)
 
@@ -117,12 +115,6 @@ Analyzed 30K credit card transactions across 10K cardholders to segment customer
 
 ---
 
-**Credit Risk & Fraud Detection** `Python · Random Forest · XGBoost · Tableau`
-
-Processed 100K+ financial transactions and built classification models to detect high-risk applicants, achieving 93% accuracy. Designed Tableau dashboards to visualize risk exposure by customer segment.
-
----
-
 **Renewable Energy Finance Analytics** `Python · Pandas · Plotly · yfinance`
 
 Analyzed global clean energy investment and cost trends across 5 datasets (OWID, IEA, IRENA, World Bank, Yahoo Finance) covering 200+ countries and 20 years. Quantified 16x investment growth ($40B to $651B) and 88% decline in solar PV LCOE from 2010 to 2023. Built interactive visualizations including choropleth maps, cost curves, and rolling correlation heatmaps comparing clean energy ETFs against fossil fuel and S&P 500 benchmarks.
@@ -133,15 +125,19 @@ Analyzed global clean energy investment and cost trends across 5 datasets (OWID,
 ## Experience
 
 **Outreach Data Analyst** — ASU Enterprise Partners `Feb 2025 – Apr 2026`
+
 Designed Power BI dashboards on Microsoft Fabric adopted by 20+ teams as the primary reporting tool within one month of launch. Analyzed email, event, and digital outreach campaign performance, contributing to an 11% improvement in email CTR and 15% quarter-over-quarter engagement growth. Conducted behavioral segmentation and A/B testing on alumni outreach campaigns; built audience frameworks to prioritize cohorts by engagement history, geography, and program affinity. Automated monthly reporting workflows, reducing cycle time by 40–80% across 10,000+ alumni segments. Produced 5+ senior leadership presentations on social media performance and global engagement trends.
 
 **Research Analyst** — NASA Lunar Reconnaissance Orbiter Camera (LROC) Lab, ASU `Apr 2022 – Feb 2024`
+
 Processed and classified 500+ high-resolution lunar satellite imagery datasets; built Python pipelines that reduced manual processing time by approximately 30%. Maintained version-controlled geospatial data workflows and published validated datasets to the NASA Planetary Data System archive.
 
 **Research Aide** — Lab of Manufacturing and Innovation, ASU `Feb 2024 – Oct 2024`
+
 Contributed experimental data, figure preparation, and technical writing to a peer-reviewed publication on continuous fiber composite manufacturing.
 
 **Marketing Analytics Assistant** — Arizona State University `Aug 2020 – May 2022`
+
 Tracked campaign performance (open rates, CTR, registrations) across email and digital channels using Google Analytics and Excel, compiling weekly reports for campaigns reaching 25,000+ students. Analyzed registration funnel data and identified a significant drop-off at the payment stage. Managed project documentation for 9 concurrent marketing campaigns in Wrike.
 
 ---
