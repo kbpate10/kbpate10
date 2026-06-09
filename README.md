@@ -6,7 +6,7 @@
 
 </div>
 
-## About Me
+## About Me 
 
 I'm a graduate student at **Arizona State University** pursuing an M.S. in Data Science, Analytics, and Engineering (GPA: 4.0, expected Dec 2026). My background spans marketing analytics, product analytics, and business intelligence, with hands-on work in campaign performance, audience segmentation, funnel analysis, and stakeholder reporting.
 
