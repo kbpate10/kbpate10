@@ -184,7 +184,7 @@ Patel, K., et al. (2024). *Fabrication of Continuous Fiber Composites with Embed
 
 <div align="center">
 
-**Open to full-time roles starting Dec 2026.**
+**Open to full-time roles starting Dec 2026**
 
 [kbpate10@asu.edu](mailto:kbpate10@asu.edu) · [linkedin.com/in/kashish-patel-10](https://linkedin.com/in/kashish-patel-10)
 
