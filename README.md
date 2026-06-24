@@ -15,7 +15,7 @@
 
 I'm a graduate student at **Arizona State University** pursuing an M.S. in Data Science, Analytics, and Engineering (GPA: 4.0, expected Dec 2026). My background spans marketing analytics, product analytics, and business intelligence, with hands-on work in campaign performance, audience segmentation, funnel analysis, and stakeholder reporting.
 
-At Enterprise Partners, I built Power BI dashboards that became the primary reporting tool for 20+ teams, analyzed email and outreach campaign performance across 10,000+ alumni segments, and ran A/B tests to improve messaging and channel effectiveness. I enjoy work where analytics is closest to the user or the customer: understanding behavior, improving conversion, and telling the story behind the numbers.
+At Enterprise Partners, I worked on marketing and business analytics. I built Power BI dashboards that became the primary reporting tool for 20+ teams, analyzed email and outreach campaign performance across 10,000+ alumni segments, and ran A/B tests to improve messaging and channel effectiveness. I also built AI automated workflows and NLP models for customer segmentation analysis. I enjoy work where analytics is closest to the user or the customer: understanding behavior, improving conversion, and telling the story behind the numbers.
 
 ---
 
